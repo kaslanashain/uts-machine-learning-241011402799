@@ -14,7 +14,7 @@ Repository ini berisi tugas Ujian Tengah Semester mata kuliah **Machine Learning
 
 ## Struktur Repository
 
-> **Catatan:** Jika file notebook tersimpan sebagai `tugas_uts.ipynb (1).txt`, ubah namanya menjadi `tugas_uts.ipynb` (hapus akhiran `(1).txt`) agar bisa dibuka langsung oleh Jupyter / VS Code.
+
 
 ## Tujuan Pembelajaran
 
